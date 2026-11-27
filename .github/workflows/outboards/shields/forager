@@ -1,0 +1,4 @@
+# Copyright 2026 Manna Harbour
+# https://github.com/manna-harbour/miryoku
+
+outboard_modules='PandaKBLab/forager-zmk-module/main caksoylar/zmk-rgbled-widget/main'
